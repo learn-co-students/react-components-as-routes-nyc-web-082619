@@ -501,3 +501,4 @@ ReactDOM.render((
 [soils]: https://en.wikipedia.org/wiki/Soil_type
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-components-as-routes'>React Components As Routes</a> on Learn.co and start learning to code for free.</p>
+# private-route-react-router
